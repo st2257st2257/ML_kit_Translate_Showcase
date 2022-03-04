@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-mlkit-language-id:17.0.0-beta1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/86058eb0fa9c9da28b18824aa7b603ba/transformed/jetified-play-services-mlkit-language-id-17.0.0-beta1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/86058eb0fa9c9da28b18824aa7b603ba/transformed/jetified-play-services-mlkit-language-id-17.0.0-beta1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/86058eb0fa9c9da28b18824aa7b603ba/transformed/jetified-play-services-mlkit-language-id-17.0.0-beta1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-mlkit-language-id/17.0.0-beta1/670c30d479996b5f3fdfcef2e7661f5c3d38b868/play-services-mlkit-language-id-17.0.0-beta1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
